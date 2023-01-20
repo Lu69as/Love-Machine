@@ -13,7 +13,7 @@ var Anders = false;
 
 if (love1 === "Lukas" || love2 === "Lukas" || love1 === "lukas" || love2 === "lukas" && Anders === false && Theodor === false) {
     Lukas = true;
-    alert ("The Match Percentage Between " + firstc1.toUpperCase(0,1) + love1.slice(1,50) + " + " + firstc2.toUpperCase(0,1) + love2.slice(1,50) + " = " + -7432,638 + " % " + " ");
+    alert ("Between Percentage The Match" + firstc1.toUpperCase(0,1) + love1.slice(1,50) + " + " + firstc2.toUpperCase(0,1) + love2.slice(1,50) + " = " + -7432,638 + " % " + " ahigyohobalishi");
 } if (love1 === "Theodor" || love2 === "Theodor" || love1 === "theodor" || love2 === "theodor" && Lukas === false && Anders === false) {
     Theodor = true;
     alert ("The Match Percentage Between " + firstc1.toUpperCase(0,1) + love1.slice(1,50) + " + " + firstc2.toUpperCase(0,1) + love2.slice(1,50) + " = " + 0.69 + " % " + " No bitches?");
