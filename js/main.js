@@ -21,9 +21,6 @@ if (love1 === "Lukas" || love2 === "Lukas" || love1 === "lukas" || love2 === "lu
     Anders = true;
     alert ("The Match Percentage Between " + firstc1.toUpperCase(0,1) + love1.slice(1,50) + " + " + firstc2.toUpperCase(0,1) + love2.slice(1,50) + " = " + 100 + " % " + " Literal Love Perfection");
 }
-
-
-
 if (Lukas === false && Anders === false && Theodor === false) {
     if (n > 70){
         alert ("The Match Percentage Between " + firstc1.toUpperCase(0,1) + love1.slice(1,50) + " + " + firstc2.toUpperCase(0,1) + love2.slice(1,50) + " = " + n + " % " + "ITS A MATCH MADE IN HEAVEN!");
