@@ -34,6 +34,6 @@ main {
     background: rgb(44, 13, 13);
 }
 @import url('https://fonts.googleapis.com/css2?family=Padyakke+Expanded+One&display=swap');
-#Lukas {
-    font-family: 'Padyakke Expanded One', cursive;
+#round {
+    border-radius: 25px;
 }
